@@ -1,0 +1,39 @@
+            body{
+                width: 350px;
+                min-width: 480px;
+                margin: 0px auto;
+                max-width: 700px;
+                background-color: rgb(17, 7, 7);
+                
+            }
+            #upper_box{
+                height: 60px;
+                background-color: dimgrey;
+                font-size: 30px;
+            }
+            #home{
+                margin: 10px 80px;
+                float: left;
+                text-decoration: none;
+            }
+            #login{
+                margin: 10px 60px;
+                text-decoration: none;
+                float: left;
+            }
+            #inner_box{
+                height: 570px;
+                background-color:gainsboro;
+                padding-top:300px;
+                text-align: center;
+
+            }
+            .key{
+                text-align: center;
+                
+                font-size: 35px;
+            }
+            .run_time{
+                margin-left: 110px;
+                font-size: 40px;
+            }
